@@ -4,6 +4,7 @@
   "description": "My Professional Portfolio",
   "main": "index.html",
   "scripts": {
+  	"start": "index.html",
     "watch": "gulp watch"
   },
   "keywords": [

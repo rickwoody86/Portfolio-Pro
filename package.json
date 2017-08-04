@@ -4,7 +4,7 @@
   "description": "My Professional Portfolio",
   "main": "index.html",
   "scripts": {
-  	"start": "index.html",
+  	"start": "js/scripts.js",
     "watch": "gulp watch"
   },
   "keywords": [
@@ -15,7 +15,7 @@
     "coding",
     "dev"
   ],
-  "author": "Ryan Fitzgerald",
+  "author": "Richard Woodward",
   "license": "MIT",
   "devDependencies": {
     "gulp": "^3.9.1",

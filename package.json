@@ -4,7 +4,7 @@
   "description": "My Professional Portfolio",
   "main": "index.html",
   "scripts": {
-  	"start": "js/scripts.js",
+    "start": "js/scripts.js",
     "watch": "gulp watch"
   },
   "keywords": [
@@ -32,5 +32,8 @@
   "bugs": {
     "url": "https://github.com/rickwoody86/Portfolio-Pro/issues"
   },
-  "homepage": "https://github.com/rickwoody86/Portfolio-Pro#readme"
+  "homepage": "https://github.com/rickwoody86/Portfolio-Pro#readme",
+  "dependencies": {
+    "nodemailer": "^4.1.0"
+  }
 }
